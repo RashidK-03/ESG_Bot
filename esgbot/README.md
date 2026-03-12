@@ -50,7 +50,7 @@ esgbot/
 
 ```bash
 git clone https://github.com/RashidK-03/ESG_Bot.git
-cd esgbot
+cd ESG_Bot
 ```
 
 ### 2. Create and activate virtual environment
