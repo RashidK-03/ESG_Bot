@@ -49,7 +49,7 @@ esgbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/esgbot.git
+git clone https://github.com/RashidK-03/ESG_Bot.git
 cd esgbot
 ```
 
